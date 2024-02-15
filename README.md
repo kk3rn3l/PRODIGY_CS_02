@@ -18,7 +18,7 @@ User-friendly choice between encryption and decryption.
 
 Usage:
 
-Make sure to install the Pillow library first if you don't have it installed: {pip install Pillow}
+Make sure to install the Pillow library first if you don't have it installed: "pip install Pillow"
 
 Run the script.
 
