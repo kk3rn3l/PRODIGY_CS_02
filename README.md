@@ -1,5 +1,3 @@
-# PRODIGY_CS_02
-
 ## Description:
 
 This Python program serves as an Image Encryption Tool, utilizing pixel manipulation to enhance image security. The Pillow library is employed for image processing, offering capabilities for both encryption and decryption. Users can choose between encrypting or decrypting images, making it a valuable tool for learning pixel-level manipulation and image processing in Python.
